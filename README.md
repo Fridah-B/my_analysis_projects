@@ -4,6 +4,7 @@ This repository is a collection of my data analysis projects, where I explore re
 My projects cover different analytical scenarios and follow a structured approach from data preparation and cleaning through exploratory analysis, validation, visualization, and presentation of findings.
 
 **What You'll Find Here**
+
 The projects in this repository demonstrate my experience with:
 
 - Data cleaning and preparation
