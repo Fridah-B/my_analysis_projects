@@ -30,6 +30,7 @@ Depending on the project, I work with tools including:
 - Google Docs
 - Google Slides
 - Tableau
+- Python
 
 **My Approach**
 
